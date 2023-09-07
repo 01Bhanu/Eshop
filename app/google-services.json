@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467833935916",
+    "project_id": "eshop-d14ca",
+    "storage_bucket": "eshop-d14ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467833935916:android:f2b3abdbc927f98f025989",
+        "android_client_info": {
+          "package_name": "com.Bhanu01.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467833935916-t12eg26enk8rv7hjn6fci4vs21gip2v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Bhanu01.eshop",
+            "certificate_hash": "0aa1aacfec1b4a10491a5326f26ce87e99119fb8"
+          }
+        },
+        {
+          "client_id": "467833935916-4al6jafp6bbfpbhsrua86gk7k6lvufgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA27UnKINHJoyNSf6v5NGgLBO8rPXAYe4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467833935916-4al6jafp6bbfpbhsrua86gk7k6lvufgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
